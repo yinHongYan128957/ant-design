@@ -26,7 +26,7 @@ ReactDOM.render(
       showSizeChanger
       onShowSizeChange={onShowSizeChange}
       defaultCurrent={3}
-      total={500}
+      total={50}
     />
     <br />
     <Pagination
